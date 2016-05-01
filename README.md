@@ -1,1 +1,2 @@
-# ubuntu_install \n run this for great victory
+# ubuntu_install 
+run this for great victory
