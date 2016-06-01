@@ -15,6 +15,7 @@ sudo add-apt-repository ppa:nilarimogard/webupd8
 sudo apt-get update
 sudo apt-get install browser-plugin-freshplayer-pepperflash
 
+sudo apt-get install matlab-support
 sudo apt-get install meshlab
 
 
